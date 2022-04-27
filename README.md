@@ -4,13 +4,9 @@ I’m currently looking to career shift into tech, particulary in Web Developmen
 Currently, I'm learning Full Stack Web Development
 
 Tools that I usually use:  
--HTML
--CSS: Bootstrap, Tailwind CSS 
--Javascript  
--Node JS
--Express JS
--R
--Python
+- Web Development: HTML, CSS (Bootstrap, Tailwind CSS), Javascript, Node JS, Express JS.
+- Data Analysis: R, Python, MySQL, Tableau, Rstudio.
+- Others: Postman, Charles Proxy.
 
 I'll be learning React JS some time soon.
 
