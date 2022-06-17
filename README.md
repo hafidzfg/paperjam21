@@ -1,11 +1,11 @@
-### 👋 Hi, I'm Hafidz Firmansyah Ghufara. You can call me Hafidz, I also goes by @paperjam21 as you can see from my github handler
+### 👋 Hi, I'm Hafidz Firmansyah Ghufara. You can call me Hafidz
  
 I’m currently looking to career shift into tech, particulary in Web Development or Software Quality Assurance.
 Currently, I'm learning Full Stack Web Development
 
 Tools that I usually use:  
 - Web Development: HTML, CSS (Bootstrap, Tailwind CSS), Javascript, Node JS, Express JS.
-- Data Analysis: R, Python, MySQL, Tableau, Rstudio.
+- Data Analysis: R, Python, MySQL, PostgreSQL, Tableau, Rstudio.
 - Others: Postman, Charles Proxy.
 
 I'll be learning React JS some time soon.
@@ -13,7 +13,7 @@ I'll be learning React JS some time soon.
 Besides web development, I also likes to explore data analysis/science.
 
 Let's get connected! 
-[Twitter](https://twitter.com/paperjam21) | [LinkedIn](https://www.linkedin.com/in/hafidzfg/)
+[LinkedIn](https://www.linkedin.com/in/hafidzfg/)
 
 ### Github Statistics
 <p align="left">
