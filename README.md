@@ -11,7 +11,7 @@ Tools that I usually use:
 - Data Analysis: <br>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - Testing: <br>
-![Katalon](https://katalon.com/hs-fs/hubfs/raw_assets/public/Katalon_December2021/images/logo_katalon_text_black.png?width=180&name=logo_katalon_text_black.png) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Katalon](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/16px-Katalon-logo-vector.svg.png)](https://colab.research.google.com/github/Naereen/badges) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 Let's get connected! 
 [LinkedIn](https://www.linkedin.com/in/hafidzfg/)
