@@ -11,7 +11,7 @@ Tools that I usually use:
 - Data Analysis: <br>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - Testing: <br>
-![Katalon](https://img.shields.io/badge/katalon16x16.png?logo=data:image/svg+xml;base64,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABCFBMVEUAAAAjqK0ApNyayTyayTxitFQAod8Amd2dxDuayjyayjyXxjlstkUAoN+byjybyzwfqb2Zyjyayj2qqlWayjycyz6ZyTuayjyV1UCYyjx0wGUAktuTyEVBrpIAot9gunoAoeAAod+Aw1kJqNYAod8Aod8An9+ayT1Vu4gAoN8Aod8Av7+ayzwAoN4AoN9yuUQAmeYAod8Aod8An9+Jw0CbyzsAoOAAod8Aod8Aod+ayjwHotU+rYZrtkYYprxstkVZsmACotwCod18wlwxq5lFs5ZotUsOpMsSps2TyENNsHFqvW57vEJut0SVyD2HwkB1ukOZyjxttkWRxj6Bv0GYyTyXyTz////6hripAAAAOXRSTlMA/lFRq/zmDw3j8Rv8j5Fr/f3KA/sxiuEMTeMH/j/KqpKQ9Dj8/Tj8Ws3RBIlWcfwK3vUg+0pL7qC5Kt8zAAAAAWJLR0RXfQrZHwAAAAd0SU1FB+IHCgkuFrrHq68AAACoSURBVBjTNY9VEsJQEAQXDRLc3d2dhwV3t/sfhcxLmL/umqnaJQ1DtES6EaInwxjCKJjMYIuVxAmv2Oy84CASpzMIpwvs9shCmi8YW67AXh9BSGvGNnzgJ0Vsd/sDOBBUhXQ88UKI/uLMORz5i8sVHI3FBVXceCGRZClF3B/gdCbLcnmI5wtcKJbk88oVWbz5oFrjH9SJGh/lhGYLot2h7hfpEfUHyPAHP4Ar/EeAif8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMTgtMDctMTBUMDk6NDY6MjIrMDA6MDDhSia+AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE4LTA3LTEwVDA5OjQ2OjIyKzAwOjAwkBeeAgAAAABJRU5ErkJggg==) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Katalon]([katalon])
 
 Let's get connected! 
 [LinkedIn](https://www.linkedin.com/in/hafidzfg/)
@@ -23,3 +23,6 @@ Let's get connected!
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafidzfg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+[katalon]: https://img.shields.io/badge/Katalon-green.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABCFBMVEUAAAAjqK0ApNyayTyayTxitFQAod8Amd2dxDuayjyayjyXxjlstkUAoN%2Bbyjybyzwfqb2Zyjyayj2qqlWayjycyz6ZyTuayjyV1UCYyjx0wGUAktuTyEVBrpIAot9gunoAoeAAod%2BAw1kJqNYAod8Aod8An9%2BayT1Vu4gAoN8Aod8Av7%2BayzwAoN4AoN9yuUQAmeYAod8Aod8An9%2BJw0CbyzsAoOAAod8Aod8Aod%2BayjwHotU%2BrYZrtkYYprxstkVZsmACotwCod18wlwxq5lFs5ZotUsOpMsSps2TyENNsHFqvW57vEJut0SVyD2HwkB1ukOZyjxttkWRxj6Bv0GYyTyXyTz%2F%2F%2F%2F6hripAAAAOXRSTlMA%2FlFRq%2FzmDw3j8Rv8j5Fr%2Ff3KA%2FsxiuEMTeMH%2Fj%2FKqpKQ9Dj8%2FTj8Ws3RBIlWcfwK3vUg%2B0pL7qC5Kt8zAAAAAWJLR0RXfQrZHwAAAAd0SU1FB%2BIHCgkuFrrHq68AAACoSURBVBjTNY9VEsJQEAQXDRLc3d2dhwV3t%2FsfhcxLmL%2FumqnaJQ1DtES6EaInwxjCKJjMYIuVxAmv2Oy84CASpzMIpwvs9shCmi8YW67AXh9BSGvGNnzgJ0Vsd%2FsDOBBUhXQ88UKI%2FuLMORz5i8sVHI3FBVXceCGRZClF3B%2FgdCbLcnmI5wtcKJbk88oVWbz5oFrjH9SJGh%2FlhGYLot2h7hfpEfUHyPAHP4Ar%2FEeAif8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMTgtMDctMTBUMDk6NDY6MjIrMDA6MDDhSia%2BAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE4LTA3LTEwVDA5OjQ2OjIyKzAwOjAwkBeeAgAAAABJRU5ErkJggg%3D%3D
