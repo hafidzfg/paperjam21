@@ -11,7 +11,7 @@ Tools that I usually use:
 - Data Analysis: <br>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - Testing: <br>
-![Katalon]([katalon])
+![Katalon][katalon]
 
 Let's get connected! 
 [LinkedIn](https://www.linkedin.com/in/hafidzfg/)
