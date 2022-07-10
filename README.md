@@ -13,7 +13,7 @@ Tools that I usually use:
 - Testing: <br>
 ![Katalon][katalon] ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Let's get connected! 
+Let's get connected! <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafidzfg/)
 
 ### Github Statistics
