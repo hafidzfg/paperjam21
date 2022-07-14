@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Hafidz Firmansyah Ghufara. You can call me Hafidz
  
-I’m currently looking to career shift into tech, particulary in Web Development or Software Quality Assurance.
-Currently, I'm learning Full Stack Web Development
+I’m currently working at [BFI Finance](https://www.linkedin.com/company/pt-bfi-finance-indonesia-tbk/)
 
 Tools that I usually use:  
 - Software Development: <br>
